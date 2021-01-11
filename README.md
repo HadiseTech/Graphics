@@ -5,9 +5,9 @@ Graphics project that we did on second year second semester
  GROUP STUDENTS
 
 1. Ashenafi Chufamo   ATR/3774/10
-2.Fasikaw Kindye  ATR/1026/10
-3.Getachew Tabikew ATR/8583/10
-4.Hawltu Yenealem ATR/9258/10
+2. Fasikaw Kindye  ATR/1026/10
+3. Getachew Tabikew ATR/8583/10
+4. Hawltu Yenealem ATR/9258/10
 5. Yared Solomon ATR/4144/10
 
 
